@@ -1,3 +1,17 @@
+SUBMITTED BY- SAMRIDDH SINHA 24BCE11123
+               MEET GUPTA 24BCE10749
+               SHIVAM SAINI 24BAI10026
+               VANSH SRIVASTAVA 24MIP10080
+
+ROLES  - SHIVAM's ROLE
+             Displaying Games in terminal through conio.h library .
+         Meet and Samriddh's
+             Designing structure  of program.
+        Vansh's Role
+             Integrating libraries in program.
+
+CODE :-
+'''
 #include<iostream>
 #include<conio.h>
 #include<Windows.h>
@@ -189,3 +203,4 @@ void logic(){
     }
 
 }
+'''
