@@ -5,7 +5,7 @@ SUBMITTED BY :-
 4) VANSH SRIVASTAVA 24MIP10080
 
 ROLES :- 
-SHIVAM's ROLE -- Displaying Games in terminal through conio.h library .
-Meet and Samriddh's Role -- Designing structure  of program.
-Vansh's Role -- Integrating libraries in program.
+1) SHIVAM's ROLE -- Displaying Games in terminal through conio.h library .
+2) Meet and Samriddh's Role -- Designing structure  of program.
+3) Vansh's Role -- Integrating libraries in program.
 
